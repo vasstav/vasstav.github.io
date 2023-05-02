@@ -1,35 +1,38 @@
-# [Your Name] - Personal Website
+<!-- HEADER -->
+<h1 align="center">
+  <br>
+  <a href="https://your-website-url.com"><img src="images/profile-circle.png" alt="Profile Picture" width="200"></a>
+  <br>
+  Your Name
+  <br>
+</h1>
 
-![Profile Picture](images/profile-circle.png)
+<!-- ABOUT -->
+<p align="center">Insert a brief summary of yourself and your background here.</p>
 
-## About
+<!-- PROJECTS -->
+<h2 align="center">Projects</h2>
+<p align="center">Here are some of my recent projects:</p>
+<p align="center">
+  <a href="https://github.com/your-username/project-1">Project 1</a> |
+  <a href="https://github.com/your-username/project-2">Project 2</a> |
+  <a href="https://github.com/your-username/project-3">Project 3</a>
+</p>
 
-Hi there! Welcome to my personal website. Here's a little bit about me:
+<!-- SKILLS -->
+<h2 align="center">Skills</h2>
+<p align="center">Here are some of my skills:</p>
+<p align="center">
+  <a href="https://example.com/skill-1">Skill 1</a> |
+  <a href="https://example.com/skill-2">Skill 2</a> |
+  <a href="https://example.com/skill-3">Skill 3</a>
+</p>
 
-[Insert a brief summary of yourself and your background here.]
-
-## Projects
-
-Here are some of my recent projects:
-
-- [Project 1](https://github.com/your-username/project-1)
-- [Project 2](https://github.com/your-username/project-2)
-- [Project 3](https://github.com/your-username/project-3)
-
-Feel free to check out my [GitHub profile](https://github.com/your-username) to see more of my work.
-
-## Skills
-
-Here are some of my skills:
-
-- [Skill 1](https://example.com/skill-1)
-- [Skill 2](https://example.com/skill-2)
-- [Skill 3](https://example.com/skill-3)
-
-## Contact
-
-If you'd like to get in touch, you can reach me via:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin-profile-url](https://linkedin.com/in/your-linkedin-profile-url)
+<!-- CONTACT -->
+<h2 align="center">Contact</h2>
+<p align="center">If you'd like to get in touch, you can reach me via:</p>
+<p align="center">
+  <a href="mailto:your-email@example.com">Email</a> |
+  <a href="https://github.com/your-username">GitHub</a> |
+  <a href="https://linkedin.com/in/your-linkedin-profile-url">LinkedIn</a>
+</p>
