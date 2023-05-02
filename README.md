@@ -1,58 +1,33 @@
-<!-- Replace "your-name" with your actual name -->
-# [Your Name] - Personal Website
+<!-- HEADER -->
+<h1 align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">
+  <a href="https://your-website-url.com"><img src="images/profile-circle.png" alt="Profile Picture" width="100" align="right"></a>
+  Your Name
+</h1>
 
-<!-- Move the image to the right side using CSS -->
-<div style="float:right"><img src="images/profile-circle.png" alt="Profile Picture"></div>
+<!-- ABOUT -->
+<p align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Insert a brief summary of yourself and your background here.</p>
 
-## About
+<!-- PROJECTS -->
+<h2 align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Projects</h2>
+<p align="center" style="color: #d4d4d4; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Here are some of my recent projects:</p>
+<p align="center" style="background-color: #221f1f;">
+  <a href="https://github.com/your-username/project-1" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Project 1</a> |
+  <a href="https://github.com/your-username/project-2" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Project 2</a> |
+  <a href="https://github.com/your-username/project-3" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Project 3</a>
+</p>
 
-Hi there! Welcome to my personal website. Here's a little bit about me:
+<!-- SKILLS -->
+<h2 align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Skills</h2>
+<p align="center" style="color: #d4d4d4; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Here are some of my skills:</p>
+<p align="center" style="background-color: #221f1f;">
+  <a href="https://example.com/skill-1" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Skill 1</a> |
+  <a href="https://example.com/skill-2" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Skill 2</a> |
+  <a href="https://example.com/skill-3" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Skill 3</a>
+</p>
 
-[Insert a brief summary of yourself and your background here.]
-
-## Projects
-
-Here are some of my recent projects:
-
-- [Project 1](https://github.com/your-username/project-1)
-- [Project 2](https://github.com/your-username/project-2)
-- [Project 3](https://github.com/your-username/project-3)
-
-Feel free to check out my [GitHub profile](https://github.com/your-username) to see more of my work.
-
-## Skills
-
-Here are some of my skills:
-
-- [Skill 1](https://example.com/skill-1)
-- [Skill 2](https://example.com/skill-2)
-- [Skill 3](https://example.com/skill-3)
-
-## Contact
-
-If you'd like to get in touch, you can reach me via:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin-profile-url](https://linkedin.com/in/your-linkedin-profile-url)
-
-<!-- Add some style to the website using CSS -->
-<style>
-  body {
-    background-color: #141414;
-    color: #fff;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    color: #fff;
-  }
-
-  a {
-    color: #fff;
-    text-decoration: none;
-  }
-
-  a:hover {
-    color: #e50914;
-  }
-</style>
+<!-- CONTACT -->
+<h2 align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Contact</h2>
+<p align="center" style="color: #d4d4d4; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">If you'd like to get in touch, you can reach me via:</p>
+<p align="center" style="background-color: #221f1f;">
+  <a href="mailto:your-email@example.com" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Email</a> |
+  <a href="https://github.com/your-username" style="color: #fff; font-family: 'Netflix Sans
