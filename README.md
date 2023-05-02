@@ -1,33 +1,70 @@
-<!-- HEADER -->
-<h1 align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">
-  <a href="https://your-website-url.com"><img src="images/profile-circle.png" alt="Profile Picture" width="100" align="right"></a>
-  Your Name
-</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Your Name - Personal Website</title>
+    <style>
+      body {
+        background-color: #141414;
+      }
+      h1 {
+        color: #fff;
+        font-family: 'Netflix Sans', sans-serif;
+        text-align: center;
+      }
+      p {
+        color: #fff;
+        font-family: 'Netflix Sans', sans-serif;
+        text-align: center;
+      }
+      a {
+        color: #fff;
+        font-family: 'Netflix Sans', sans-serif;
+        text-align: center;
+        margin: 0 10px;
+      }
+      img {
+        width: 100px;
+        float: right;
+        margin: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- HEADER -->
+    <h1>
+      <a href="https://your-website-url.com"><img src="images/profile-circle.png" alt="Profile Picture"></a>
+      Your Name
+    </h1>
 
-<!-- ABOUT -->
-<p align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Insert a brief summary of yourself and your background here.</p>
+    <!-- ABOUT -->
+    <p>Insert a brief summary of yourself and your background here.</p>
 
-<!-- PROJECTS -->
-<h2 align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Projects</h2>
-<p align="center" style="color: #d4d4d4; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Here are some of my recent projects:</p>
-<p align="center" style="background-color: #221f1f;">
-  <a href="https://github.com/your-username/project-1" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Project 1</a> |
-  <a href="https://github.com/your-username/project-2" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Project 2</a> |
-  <a href="https://github.com/your-username/project-3" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Project 3</a>
-</p>
+    <!-- PROJECTS -->
+    <h2>Projects</h2>
+    <p>Here are some of my recent projects:</p>
+    <p>
+      <a href="https://github.com/your-username/project-1">Project 1</a> |
+      <a href="https://github.com/your-username/project-2">Project 2</a> |
+      <a href="https://github.com/your-username/project-3">Project 3</a>
+    </p>
 
-<!-- SKILLS -->
-<h2 align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Skills</h2>
-<p align="center" style="color: #d4d4d4; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Here are some of my skills:</p>
-<p align="center" style="background-color: #221f1f;">
-  <a href="https://example.com/skill-1" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Skill 1</a> |
-  <a href="https://example.com/skill-2" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Skill 2</a> |
-  <a href="https://example.com/skill-3" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Skill 3</a>
-</p>
+    <!-- SKILLS -->
+    <h2>Skills</h2>
+    <p>Here are some of my skills:</p>
+    <p>
+      <a href="https://example.com/skill-1">Skill 1</a> |
+      <a href="https://example.com/skill-2">Skill 2</a> |
+      <a href="https://example.com/skill-3">Skill 3</a>
+    </p>
 
-<!-- CONTACT -->
-<h2 align="center" style="color: #fff; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">Contact</h2>
-<p align="center" style="color: #d4d4d4; font-family: 'Netflix Sans', sans-serif; background-color: #221f1f;">If you'd like to get in touch, you can reach me via:</p>
-<p align="center" style="background-color: #221f1f;">
-  <a href="mailto:your-email@example.com" style="color: #fff; font-family: 'Netflix Sans', sans-serif;">Email</a> |
-  <a href="https://github.com/your-username" style="color: #fff; font-family: 'Netflix Sans
+    <!-- CONTACT -->
+    <h2>Contact</h2>
+    <p>If you'd like to get in touch, you can reach me via:</p>
+    <p>
+      <a href="mailto:your-email@example.com">Email</a> |
+      <a href="https://github.com/your-username">GitHub</a> |
+      <a href="https://linkedin.com/in/your-linkedin-profile-url">LinkedIn</a>
+    </p>
+  </body>
+</html>
